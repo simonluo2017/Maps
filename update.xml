@@ -6,10 +6,10 @@
   <SecurityToken>2408AB1B-D454-4DCB-B031-42E185C4B27F</SecurityToken>
   <BaseUri>https://media.githubusercontent.com/media/simonluo2017/Maps/master/</BaseUri>
   <!-- Payload: The file will be downloaded; -->
-  <!-- Version: newer version will be downloaded; default version 0 will always be downloaded; -->
-  <!-- Extract: Should this zip file be extracted; default is always extracted -->
+  <!-- Version = "3": newer version will be downloaded; default version 0 will always be downloaded; -->
+  <!-- Extract="0/1": Should this zip file be extracted; default is always extracted -->
   <Payload>Map1.zip</Payload>
-  <Payload Version ="1" >Map2.zip</Payload>
+  <Payload Version ="2" >Map2.zip</Payload>
   <StartUpDir>Map</StartUpDir>
   <StartUpExe>Map\SYMaps.exe</StartUpExe>
   <TimeStampeFileCheckEnabled>False</TimeStampeFileCheckEnabled>
