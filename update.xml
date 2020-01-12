@@ -1,7 +1,7 @@
 ﻿<?xml   version="1.0" encoding="utf-8"   ?>
 <Manifest version="2">
   <CheckInterval>900</CheckInterval>
-  <RemoteConfigUri>https://media.githubusercontent.com/media/simonluo2017/Maps/master/update.xml</RemoteConfigUri>
+  <RemoteConfigUri>https://raw.githubusercontent.com/simonluo2017/Maps/master/update.xml</RemoteConfigUri>
   <!-- SecurityToken will be used to verify if local update.xml has the same token as remote update.xml   -->
   <SecurityToken>2408AB1B-D454-4DCB-B031-42E185C4B27F</SecurityToken>
   <BaseUri>https://media.githubusercontent.com/media/simonluo2017/Maps/master/</BaseUri>
