@@ -1,5 +1,5 @@
 ﻿<?xml   version="1.0" encoding="utf-8"   ?>
-<Manifest version="2">
+<Manifest version="3">
   <CheckInterval>900</CheckInterval>
   <RemoteConfigUri>https://raw.githubusercontent.com/simonluo2017/Maps/master/update.xml</RemoteConfigUri>
   <!-- SecurityToken will be used to verify if local update.xml has the same token as remote update.xml   -->
